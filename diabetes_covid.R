@@ -1,5 +1,4 @@
-library(readr); library(tidyverse); library(survival); library(mediation); library(ggpubr); library(rms);library(caret)
-library(survminer); library(haven); library(rsq); library(ResourceSelection); library(ggsci);library(timereg); library(haven)
+library(readr); library(here); library(ggplot2); library(stringr); library(magrittr); library(dplyr); library(haven);library(ggpubr); library(survival); library(mvtnorm); library(tidyr); library(survminer); 
 
 ## Manejo de la base de datos####
 setwd("/Users/nefoantonio/UNIVERSIDAD NACIONAL AUTÓNOMA DE MÉXICO/OMAR YAXMEHEN BELLO CHAVOLLA - COVID-19, Diabetes and obesity")
